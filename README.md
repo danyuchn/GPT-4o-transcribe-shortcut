@@ -21,6 +21,8 @@ You can edit the **Prompt** field inside the shortcut’s form data to:
 - Adjust the language output (e.g., Simplified Chinese, English).
 - Add more context or system instructions.
 
+You can also change the `model` parameter to `gpt‑4o‑mini‑transcribe` or `whisper‑1` for alternative transcription backends.
+
 ---
 
 ## Additional Resources
