@@ -21,5 +21,14 @@ You can edit the **Prompt** field inside the shortcut’s form data to:
 - Adjust the language output (e.g., Simplified Chinese, English).
 - Add more context or system instructions.
 
-```bash
-Prompt: "Please output Chinese parts in Traditional Chinese, keep English as-is."
+---
+
+## Additional Resources
+
+For more detailed API configuration instructions, please refer to **OpenAI Speech to Text API Guide** [OpenAI Speech-to-Text API Guide](https://platform.openai.com/docs/guides/speech-to-text).
+
+---
+
+**Acknowledgments**
+
+Special thanks to GPT o4-mini-high and o4‑mini for their invaluable assistance in crafting this shortcut.
