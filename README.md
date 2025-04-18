@@ -25,7 +25,7 @@ You can edit the **Prompt** field inside the shortcut’s form data to:
 
 ## Additional Resources
 
-For more detailed API configuration instructions, please refer to **OpenAI Speech to Text API Guide** [OpenAI Speech-to-Text API Guide](https://platform.openai.com/docs/guides/speech-to-text).
+For more detailed API configuration instructions, please refer to [OpenAI Speech-to-Text API Guide](https://platform.openai.com/docs/guides/speech-to-text).
 
 ---
 
